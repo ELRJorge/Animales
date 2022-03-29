@@ -1,0 +1,60 @@
+#e{
+    color: white;
+    text-align: justify;
+    font-family: Bahnschrift;
+}
+ul{
+    list-style: none;
+}
+#d{
+    margin-left: 0 auto;
+    margin-top: 0 auto;
+}
+#c{
+    vertical-align: auto;
+    
+}
+#b{
+    margin-left: 0 auto;
+    margin-top: -20px;
+}
+#f{
+    margin-top: 15px;
+    margin-left: 0 auto;
+}
+iframe{
+    margin-left: 0 auto;
+}
+.nav-enlace{
+ text-decoration: none;
+}
+#h{
+    margin-top: -250px;
+    margin-left: -1000px;
+}
+#n{
+    margin-left: -100px;
+    font-size: 25px;
+
+}
+#m{
+    margin-left: -100px;
+    font-size: 25px;
+    margin-top: -80px;
+
+}
+#z{
+    margin-left: -105px;
+    margin-top: 75px;
+    font-size: 25px;
+}
+.menu li a:link, a:visited, a:hover, a:active{
+    color:#759eff;
+    font-size: 18px;
+    text-decoration: none;
+}
+body{
+    background-image: 
+    url(https://www.xtrafondos.com/descargar.php?id=3038&resolucion=1920x1080);
+    }
+

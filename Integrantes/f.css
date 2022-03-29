@@ -1,0 +1,21 @@
+body{
+    background-image: url(https://images.pexels.com/photos/1072179/pexels-photo-1072179.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: gray;
+    }
+    h1{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    }
+    
+    h3{
+    color: yellow;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    
